@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flying-panthers/static/css/main.0fe58447.chunk.css",
+    "main.js": "/flying-panthers/static/js/main.00b817d9.chunk.js",
+    "main.js.map": "/flying-panthers/static/js/main.00b817d9.chunk.js.map",
+    "runtime-main.js": "/flying-panthers/static/js/runtime-main.e7d16e93.js",
+    "runtime-main.js.map": "/flying-panthers/static/js/runtime-main.e7d16e93.js.map",
+    "static/js/2.e198dc6a.chunk.js": "/flying-panthers/static/js/2.e198dc6a.chunk.js",
+    "static/js/2.e198dc6a.chunk.js.map": "/flying-panthers/static/js/2.e198dc6a.chunk.js.map",
+    "static/js/3.efcc8fab.chunk.js": "/flying-panthers/static/js/3.efcc8fab.chunk.js",
+    "static/js/3.efcc8fab.chunk.js.map": "/flying-panthers/static/js/3.efcc8fab.chunk.js.map",
+    "index.html": "/flying-panthers/index.html",
+    "static/css/main.0fe58447.chunk.css.map": "/flying-panthers/static/css/main.0fe58447.chunk.css.map",
+    "static/js/2.e198dc6a.chunk.js.LICENSE.txt": "/flying-panthers/static/js/2.e198dc6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7d16e93.js",
+    "static/js/2.e198dc6a.chunk.js",
+    "static/css/main.0fe58447.chunk.css",
+    "static/js/main.00b817d9.chunk.js"
+  ]
+}
